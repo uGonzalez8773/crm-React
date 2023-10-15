@@ -1,12 +1,11 @@
 {
   "clients": [
     {
+      "id": 1,
       "name": "Juan",
-      "company": "HPE",
+      "phone": 102013313,
       "email": "correo@correo.com",
-      "phone": "102013313",
-      "notes": "1",
-      "id": 1
+      "company": "HPE"
     },
     {
       "id": 2,
@@ -35,6 +34,14 @@
       "phone": 1398198938,
       "email": "correo5@correo.com",
       "company": "Tiktok"
+    },
+    {
+      "name": "uriel Gonzalez",
+      "company": "Hewlett Packard Enterprise",
+      "email": "ugonzalez8773@gmail.com",
+      "phone": "3121452757",
+      "notes": "the boss",
+      "id": 6
     }
   ]
 }
