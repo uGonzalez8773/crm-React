@@ -1,0 +1,47 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "phone": 102013313,
+      "email": "correo@correo.com",
+      "company": "HPE"
+    },
+    {
+      "id": 2,
+      "name": "Karen",
+      "phone": 138198313,
+      "email": "correo2@correo.com",
+      "company": "LinkedIn"
+    },
+    {
+      "id": 3,
+      "name": "Josue",
+      "phone": 31983913,
+      "email": "correo3@correo.com",
+      "company": "Facebook"
+    },
+    {
+      "id": 4,
+      "name": "Miguel",
+      "phone": 319381983,
+      "email": "correo4@correo.com",
+      "company": "Instagram"
+    },
+    {
+      "id": 5,
+      "name": "Pedro",
+      "phone": 1398198938,
+      "email": "correo5@correo.com",
+      "company": "Tiktok"
+    },
+    {
+      "name": "uriel Gonzalez",
+      "company": "Hewlett Packard Enterprise",
+      "email": "ugonzalez8773@gmail.com",
+      "phone": "3121452757",
+      "notes": "the boss",
+      "id": 6
+    }
+  ]
+}
